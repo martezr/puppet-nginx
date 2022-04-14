@@ -1,5 +1,5 @@
 class nginx (
-  String  $version           = '1.18.0-0ubuntu1.2',
+  String  $version           = 'latest',
   String  $secretdata        = 'not secret',
 )
 {
